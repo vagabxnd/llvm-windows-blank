@@ -1,6 +1,7 @@
 # LLVM/Clang Blank Project for Windows
 
 A minimal starter template for working with LLVM and Clang on Windows.
+
 Change **LLVM_PATH** in build.cmd file
 
 ## Prerequisites
